@@ -4,11 +4,8 @@ This project cleans monthly weather station rainfall data across five Kenyan cou
 
 ## How to Run
 
-1. Install the required library:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Open `rainfall_analysis.ipynb` in Jupyter Notebook, VS Code, or Google Colab.
+1. If you want to test in your computer, install the required library 'pip install -r requirements.txt' then use anaconda or jupyter notebook to run the rainfall_analysis.ipynb file. 
+2. Click the 'Open in colab' link at the top of the file in github.
 3. Run all cells from top to bottom to generate the analysis outputs and `rainfall_summary.csv`.
 
 ## Planting Advisory
